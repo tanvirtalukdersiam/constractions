@@ -1,0 +1,42 @@
+.message {
+  background-image: url(../public/images/Rectangle\ 4307.png);
+  padding: 110px 0px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.main {
+  text-align: center;
+}
+.main h1 {
+  color: #fafafa !important;
+  font-family: Poppins;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 76px; /* 140.741% */
+}
+.m_t {
+  color: #fafafa;
+  font-family: Poppins;
+  font-size: 16px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 155.556% */
+  width: 857px;
+  margin: auto;
+  margin-top: 34px;
+  margin-bottom: 30px;
+}
+.m_b {
+  color: #fafafa;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 155.556% */
+  width: 857px;
+  margin: auto;
+}

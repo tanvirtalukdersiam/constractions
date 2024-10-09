@@ -1,0 +1,35 @@
+.newsletter {
+  padding: 100px;
+  background-color: #fff;
+}
+.man {
+  text-align: center;
+}
+.man h1 {
+  color: #313131 !important;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 56px; /* 103.704% */
+  text-transform: capitalize;
+  width: 466px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+.man p {
+  color: #6b6b6b;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 140% */
+  width: 556px;
+  margin: auto;
+  margin-bottom: 22px;
+}
+.btn {
+  margin: auto;
+}
