@@ -1,0 +1,12 @@
+.partner {
+  padding: 50px 0px;
+}
+
+.p_main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 150px;
+  background: #fafafa;
+  padding: 68px 0px;
+}
